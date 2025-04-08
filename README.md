@@ -23,9 +23,6 @@ A Python tool for tracking brand product rankings on wildberries.ru search resul
   - Product name
 - A simple line plot for position over time
 
-## ▶️ Example Plot
-*(Add a screenshot of your `matplotlib` plot here)*
-
 ## 📌 Use Cases
 - E-commerce analytics
 - SEO performance tracking
